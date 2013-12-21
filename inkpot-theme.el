@@ -13,8 +13,8 @@
         '(default ((t (:background "#1e1e27" :foreground "#cfbfad"))))
         '(font-lock-builtin-face ((t (:foreground "#cfbfad"))))
         '(region ((t (:background "#404040"))))
-        '(highlight ((t (:background "#404040"))))
-	'(hl-line ((t (:background "#202042"))))
+        '(highlight ((t (:background "#2E2E37"))))
+	'(hl-line ((t (:background "#2E2E37"))))
         '(fringe ((t (:background "#1e1e27" :foreground "#cfbfad"))))
 	'(cursor ((t (:background "#708090" :foreground "#cfdfef"))))
         '(show-paren-match-face ((t (:background "#606060"))))
@@ -121,6 +121,8 @@
 	'(font-latex-string-face ((t (:foreground "#708090"))))
 	'(font-latex-match-reference-keywords ((t (:foreground "#708090"))))
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
+	'(custom-variable-tag ((t (:foreground "#ffcb8b" :weight bold))))
+	'(widget-field ((t (:background "#303040"))))
 )
 ;;;###autoload
 (when load-file-name
