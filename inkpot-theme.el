@@ -122,8 +122,6 @@
   '(font-latex-string-face ((t (:foreground "#708090"))))
   '(font-latex-match-reference-keywords ((t (:foreground "#708090"))))
   '(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
-  '(custom-variable-tag ((t (:foreground "#ffcb8b" :weight bold))))
-  '(widget-field ((t (:background "#303040"))))
 )
 ;;;###autoload
 (when load-file-name
