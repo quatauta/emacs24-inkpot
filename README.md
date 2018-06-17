@@ -1,6 +1,14 @@
 emacs24-inkpot
 ==============
 
+Deprecation Notice
+------------------
+
+This is deprecated in favor of https://melpa.org/#/inkpot-theme
+
+Old description
+---------------
+
 A port of the vim inkpot theme for emacs deftheme.
 
 This is my personal fork of Martin Haesler's (mswift42) variant of Per Vognsen's port of vim's wonderful inkpot. mswift42 added some extra faces for org and gnus, and ported it to use the deftheme architecture. 
